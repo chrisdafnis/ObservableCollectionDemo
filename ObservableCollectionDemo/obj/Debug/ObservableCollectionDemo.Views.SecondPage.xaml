@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" BackgroundColor="Gray" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="ObservableCollectionDemo.SecondPage">
+	<ScrollView>  
+    <Grid Padding="20,30,20,10" RowSpacing="10">  
+        <Grid.RowDefinitions>  
+        <RowDefinition Height="Auto" />  
+        <RowDefinition Height="Auto" />  
+        <RowDefinition Height="Auto" />  
+  
+        </Grid.RowDefinitions>  
+        <Label Text="Add Emp Details" Grid.Row="0" HorizontalOptions="Center" TextColor="White" FontSize="23" />  
+    <Grid Grid.Row="1" RowSpacing="20">  
+    <Grid.RowDefinitions>  
+        <RowDefinition Height="Auto" />  
+        <RowDefinition Height="Auto" />     
+        <RowDefinition Height="Auto" />  
+        <RowDefinition Height="Auto" />  
+        <RowDefinition Height="Auto" />  
+        <RowDefinition Height="Auto" />  
+        <RowDefinition Height="Auto" />  
+        <RowDefinition Height="Auto" />  
+    </Grid.RowDefinitions>  
+    <Grid.ColumnDefinitions>  
+        <ColumnDefinition Width="Auto" />  
+        <ColumnDefinition Width="*" />  
+    </Grid.ColumnDefinitions>  
+        <Label Text="FirstName" Grid.Row="1" HorizontalOptions="Start" VerticalOptions="Center" TextColor="White" />  
+        <Entry x:Name="entryfirstname" Grid.Row="1" Grid.Column="1" VerticalOptions="Center" Placeholder="FirstName" />  
+        <Label Text="LastName" Grid.Row="2" TextColor="White" VerticalOptions="Center" />  
+        <Entry x:Name="entrylastname" Grid.Row="2" Grid.Column="1" Placeholder="LastName" VerticalOptions="Center" />  
+        <Label Text="ComapnyName" Grid.Row="3" TextColor="White" VerticalOptions="Center" />  
+        <Entry x:Name="entrycomapanyname" Grid.Row="3" Grid.Column="1" Placeholder="ComapanyName" VerticalOptions="Center" />  
+        <Label Text="Designation" Grid.Row="4" TextColor="White" VerticalOptions="Center"/>  
+        <Entry x:Name="entrydesignation" Grid.Row="4" Grid.Column="1" Placeholder="Designation" VerticalOptions="Center"/>  
+        <Label Text="MobileNumber"  Grid.Row="5" TextColor="White" VerticalOptions="Center"/>  
+        <Entry x:Name="entrymobilenumber" Keyboard="Numeric" Grid.Row="5" Grid.Column="1" Placeholder="MobileNumber" VerticalOptions="Center" TextChanged="mobileNoChanged"/>  
+        <Label Text="Address" Grid.Row="6" TextColor="White" VerticalOptions="Center"/>  
+        <Editor x:Name="editoraddress" Grid.Row="6" Grid.Column="1" HeightRequest="50" VerticalOptions="Center"/>  
+    </Grid>  
+        <Button Text="Save" BackgroundColor="White" Grid.Row="2" TextColor="Blue" Clicked="BtnSave_Click" />  
+      
+    </Grid>  
+    </ScrollView> 
+</ContentPage>

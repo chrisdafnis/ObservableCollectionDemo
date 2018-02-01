@@ -1,0 +1,16 @@
+C:\Users\ChrisD.DAKOTAIS\Documents\Visual Studio 2017\Projects\ObservableCollectionDemo\ObservableCollectionDemo\bin\Debug\ObservableCollectionDemo.dll
+C:\Users\ChrisD.DAKOTAIS\Documents\Visual Studio 2017\Projects\ObservableCollectionDemo\ObservableCollectionDemo\bin\Debug\ObservableCollectionDemo.pdb
+C:\Users\ChrisD.DAKOTAIS\Documents\Visual Studio 2017\Projects\ObservableCollectionDemo\ObservableCollectionDemo\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ChrisD.DAKOTAIS\Documents\Visual Studio 2017\Projects\ObservableCollectionDemo\ObservableCollectionDemo\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ChrisD.DAKOTAIS\Documents\Visual Studio 2017\Projects\ObservableCollectionDemo\ObservableCollectionDemo\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ChrisD.DAKOTAIS\Documents\Visual Studio 2017\Projects\ObservableCollectionDemo\ObservableCollectionDemo\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ChrisD.DAKOTAIS\Documents\Visual Studio 2017\Projects\ObservableCollectionDemo\ObservableCollectionDemo\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ChrisD.DAKOTAIS\Documents\Visual Studio 2017\Projects\ObservableCollectionDemo\ObservableCollectionDemo\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\ChrisD.DAKOTAIS\Documents\Visual Studio 2017\Projects\ObservableCollectionDemo\ObservableCollectionDemo\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ChrisD.DAKOTAIS\Documents\Visual Studio 2017\Projects\ObservableCollectionDemo\ObservableCollectionDemo\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ChrisD.DAKOTAIS\Documents\Visual Studio 2017\Projects\ObservableCollectionDemo\ObservableCollectionDemo\obj\Debug\ObservableCollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\ChrisD.DAKOTAIS\Documents\Visual Studio 2017\Projects\ObservableCollectionDemo\ObservableCollectionDemo\obj\Debug\ObservableCollectionDemo.App.xaml.g.cs
+C:\Users\ChrisD.DAKOTAIS\Documents\Visual Studio 2017\Projects\ObservableCollectionDemo\ObservableCollectionDemo\obj\Debug\ObservableCollectionDemo.Views.FirstPage.xaml.g.cs
+C:\Users\ChrisD.DAKOTAIS\Documents\Visual Studio 2017\Projects\ObservableCollectionDemo\ObservableCollectionDemo\obj\Debug\ObservableCollectionDemo.Views.SecondPage.xaml.g.cs
+C:\Users\ChrisD.DAKOTAIS\Documents\Visual Studio 2017\Projects\ObservableCollectionDemo\ObservableCollectionDemo\obj\Debug\ObservableCollectionDemo.dll
+C:\Users\ChrisD.DAKOTAIS\Documents\Visual Studio 2017\Projects\ObservableCollectionDemo\ObservableCollectionDemo\obj\Debug\ObservableCollectionDemo.pdb

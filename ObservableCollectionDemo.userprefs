@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{145CC1E1-DA9B-44B0-A8DF-15A7E0491C24}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ObservableCollectionDemo/App.xaml.cs">
+    <Files>
+      <File FileName="ObservableCollectionDemo/Views/FirstPage.xaml" Line="41" Column="1" />
+      <File FileName="ObservableCollectionDemo/Views/FirstPage.xaml.cs" Line="28" Column="1" />
+      <File FileName="ObservableCollectionDemo/Views/SecondPage.xaml" Line="45" Column="1" />
+      <File FileName="ObservableCollectionDemo/Views/SecondPage.xaml.cs" Line="32" Column="2" />
+      <File FileName="ObservableCollectionDemo/App.xaml.cs" Line="30" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ObservableCollectionDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.20050A5E-5142-4E2D-9C23-032C07A46116" />
+</Properties>
